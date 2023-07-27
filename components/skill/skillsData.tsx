@@ -42,6 +42,12 @@ export const skillsData = [
     h3: "JavaScript",
   },
   {
+    href: "https://github.com/milliorn",
+    style: "m-auto p-1 sm:text-5xl text-red-500",
+    icon: <SiGit />,
+    h3: "Git",
+  },
+  /*{
     href: "https://github.com/milliorn?tab=repositories&q=react&type=public&language=javascript&sort=",
     style: "m-auto p-1 text-blue-500 sm:text-5xl",
     icon: <SiReact />,
@@ -90,12 +96,6 @@ export const skillsData = [
     h3: "GatsbyJS",
   },
   {
-    href: "https://github.com/milliorn",
-    style: "m-auto p-1 sm:text-5xl text-red-500",
-    icon: <SiGit />,
-    h3: "Git",
-  },
-  {
     href: "https://github.com/milliorn?tab=repositories&q=postcss&type=&language=&sort=",
     style: "m-auto p-1 sm:text-5xl bg-orange-700 text-white",
     icon: <SiPostcss />,
@@ -118,7 +118,7 @@ export const skillsData = [
     style: "m-auto p-1 sm:text-5xl text-teal-400",
     icon: <SiNetlify />,
     h3: "Netlify",
-  },
+  },*/
  
   
 ] as const;
