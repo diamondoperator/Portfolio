@@ -7,11 +7,10 @@ export default function ContactText(): JSX.Element {
       <p className="uppercase text-xl tracking-widest text-indigo-600 text-center ">
         Contact
       </p>
-      <h2 className="py-4 text-center">Jagdeep Singh</h2>
-      <p className="py-2 text-gray-600 text-center">Web Developer</p>
+      <h2 className="py-4 text-center">Bryant Davis</h2>
+      <p className="py-2 text-gray-600 text-center">Creative Technologist</p>
       <p className="py-2 text-gray-600 text-center">
-        Available for Freelance or Full-Time Positions. Contact me and
-        let&apos;s start our journey!
+        Available for Full-time, Part-Time or contract positions please contact me through the social links below.
       </p>
       <ContactButtonsContainer />
     </div>
