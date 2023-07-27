@@ -9,12 +9,11 @@ export default function HeroText(): JSX.Element {
       </div>
 
       <h1 className="py-4 text-gray-700">
-        Hello, I&apos;m <span className="text-indigo-600">Jagdeep</span>
+        Hello, I&apos;m <span className="text-indigo-600">Bryant</span>
       </h1>
-      <h1 className="py-4 text-gray-700">Web Developer</h1>
+      <h1 className="py-4 text-gray-700">Creative Technologist</h1>
       <p className="py-4 text-gray-600 max-w-xs m-auto">
-        Focused on building responsive, mobile first web applications while
-        learning back-end technologies.
+        Creating websites, web applications, and new media art with emerging technologies.
       </p>
     </>
   );
