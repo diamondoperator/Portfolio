@@ -10,7 +10,7 @@ function AboutText(): JSX.Element {
       </p>
       <h2 className="py-4 text-center xl:text-start">Creative Technologist</h2>
       <p className="py-2 text-gray-600">
-       I am a creative technologist with experience in physical computing, graphic design, front-end development, back-end development, AR, and new media art. I have used tools like HTML5,CSS,Javascript, hyper3d, A-Frame, unity, the Adobe Creative Suite, and creative coding to create websites, web applications, digital art, and new media art installations.
+       I am a creative technologist with experience in physical computing, graphic design, front-end development, back-end development, video game testing, AR, and new media art. I have used tools like HTML5,CSS,Javascript, hyper3d, A-Frame, unity, the Adobe Creative Suite, and creative coding to create websites, web applications, digital art, and new media art installations.
       </p>
       <p className="py-2 text-gray-600">
       </p>
