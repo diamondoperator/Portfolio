@@ -4,7 +4,6 @@ export default function HeroText(): JSX.Element {
     <>
       <div>
         <p className="uppercase text-sm tracking-widest text-gray-600">
-          Let&apos;s build web applications!
         </p>
       </div>
 
