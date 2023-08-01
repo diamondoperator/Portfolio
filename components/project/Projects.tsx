@@ -15,43 +15,43 @@ function ProjectsContainer(): JSX.Element {
       <ProjectItem
         backgroundImg={bemusicImg}
         projectUrl="/landing-pages"
-        tech="React, TypeScript, Tailwind CSS"
-        title="Landing Pages"
+        tech="Wordpress, Divi"
+        title="Bemusic product page"
       />
 
       <ProjectItem
         backgroundImg={burchfieldImg}
         projectUrl="/movie-database"
-        tech="React, Typescript, Netlify"
-        title="Movie Database"
+        tech="Builder"
+        title="Charles E Burchfield website"
       />
 
       <ProjectItem
         backgroundImg={daddygreensImg}
         projectUrl="/weather"
-        tech="React, Tailwind CSS"
-        title="Current Weather"
+        tech="Wordpress, SKT"
+        title="Daddy Greens Pizza (the last dragon)"
       />
 
       <ProjectItem
         backgroundImg={meteormanImg}
         projectUrl="/dictionary"
-        tech="React, Material UI, Netlify"
-        title="Dictionary"
+        tech="biolink, video editing, AR"
+        title="MeteorMan media kit"
       />
 
       <ProjectItem
         backgroundImg={muspopinaImg}
         projectUrl="/recipes"
-        tech="Gatsby, Contentful CMS, GraphQL"
-        title="Gatsby Recipes"
+        tech="Builder"
+        title="Mus Popina restaurant"
       />
 
       <ProjectItem
         backgroundImg={yaleImg}
         projectUrl="/open-ai"
-        tech="OpenAI, NodeJS, ExpressJS, Render"
-        title="Open AI Image Generator"
+        tech="Wordpress, Divi"
+        title="Yale School Of Art redesign prototype"
       />
     </div>
   );
