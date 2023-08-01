@@ -7,12 +7,14 @@ import movieDatabaseImg from "../../public/assets/projects/movie-database.png";
 import openAiImg from "../../public/assets/projects/open-ai-onrender.png";
 import travelAgencyImg from "../../public/assets/projects/travel-agency.png";
 
+import bemusicImg from "../../public/assets/projects/bemusic.png";
+
 // holds all project items in projects
 function ProjectsContainer(): JSX.Element {
   return (
     <div className="grid md:grid-cols-3 gap-8">
       <ProjectItem
-        backgroundImg={travelAgencyImg}
+        backgroundImg={bemusicImg}
         projectUrl="/landing-pages"
         tech="React, TypeScript, Tailwind CSS"
         title="Landing Pages"
