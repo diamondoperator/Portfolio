@@ -8,6 +8,7 @@ import openAiImg from "../../public/assets/projects/open-ai-onrender.png";
 import travelAgencyImg from "../../public/assets/projects/travel-agency.png";
 
 import bemusicImg from "../../public/assets/projects/bemusic.png";
+import burchfieldImg from "../../public/assets/projects/burchfield.png";
 
 // holds all project items in projects
 function ProjectsContainer(): JSX.Element {
@@ -21,7 +22,7 @@ function ProjectsContainer(): JSX.Element {
       />
 
       <ProjectItem
-        backgroundImg={movieDatabaseImg}
+        backgroundImg={burchfieldImg}
         projectUrl="/movie-database"
         tech="React, Typescript, Netlify"
         title="Movie Database"
