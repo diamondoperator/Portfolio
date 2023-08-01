@@ -9,6 +9,7 @@ import travelAgencyImg from "../../public/assets/projects/travel-agency.png";
 
 import bemusicImg from "../../public/assets/projects/bemusic.png";
 import burchfieldImg from "../../public/assets/projects/burchfield.png";
+import daddygreensImg from "../../public/assets/projects/daddygreens.png";
 
 // holds all project items in projects
 function ProjectsContainer(): JSX.Element {
@@ -29,7 +30,7 @@ function ProjectsContainer(): JSX.Element {
       />
 
       <ProjectItem
-        backgroundImg={currentWeatherImg}
+        backgroundImg={daddygreensImg}
         projectUrl="/weather"
         tech="React, Tailwind CSS"
         title="Current Weather"
