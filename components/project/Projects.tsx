@@ -1,15 +1,12 @@
 import ProjectItem from "./ProjectItem";
 
-import currentWeatherImg from "../../public/assets/projects/current-weather.png";
-import dictionaryImg from "../../public/assets/projects/dictionary.png";
-import gatsbyRecipeImg from "../../public/assets/projects/gatsbyrecipes.png";
-import movieDatabaseImg from "../../public/assets/projects/movie-database.png";
-import openAiImg from "../../public/assets/projects/open-ai-onrender.png";
-import travelAgencyImg from "../../public/assets/projects/travel-agency.png";
 
 import bemusicImg from "../../public/assets/projects/bemusic.png";
 import burchfieldImg from "../../public/assets/projects/burchfield.png";
 import daddygreensImg from "../../public/assets/projects/daddygreens.png";
+import meteormanImg from "../../public/assets/projects/meteorman.png";
+import muspopinaImg from "../../public/assets/projects/muspopina.png";
+import yaleImg from "../../public/assets/projects/yale.png";
 
 // holds all project items in projects
 function ProjectsContainer(): JSX.Element {
@@ -37,21 +34,21 @@ function ProjectsContainer(): JSX.Element {
       />
 
       <ProjectItem
-        backgroundImg={dictionaryImg}
+        backgroundImg={meteormanImg}
         projectUrl="/dictionary"
         tech="React, Material UI, Netlify"
         title="Dictionary"
       />
 
       <ProjectItem
-        backgroundImg={gatsbyRecipeImg}
+        backgroundImg={muspopinaImg}
         projectUrl="/recipes"
         tech="Gatsby, Contentful CMS, GraphQL"
         title="Gatsby Recipes"
       />
 
       <ProjectItem
-        backgroundImg={openAiImg}
+        backgroundImg={yaleImg}
         projectUrl="/open-ai"
         tech="OpenAI, NodeJS, ExpressJS, Render"
         title="Open AI Image Generator"
