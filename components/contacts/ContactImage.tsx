@@ -10,7 +10,7 @@ export default function ContactImage(): JSX.Element {
         className="rounded-xl md:flex hidden"
         height={1080}
         placeholder="blur"
-        src="https://source.unsplash.com/random/?vintagebackgrounds"
+        src="https://source.unsplash.com/random/?retrogaming"
         width={1920}
       />
     </div>
