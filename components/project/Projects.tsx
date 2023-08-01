@@ -21,35 +21,35 @@ function ProjectsContainer(): JSX.Element {
 
       <ProjectItem
         backgroundImg={burchfieldImg}
-        projectUrl="/movie-database"
+        projectUrl="https://bdavisburchfieldpage.tsiapps.org/index.html"
         tech="Builder"
         title="Charles E Burchfield website"
       />
 
       <ProjectItem
         backgroundImg={daddygreensImg}
-        projectUrl="/weather"
+        projectUrl="https://bryantdavis.tsiacademy.org/webdesign2/week1/skt/WordPress-master/"
         tech="Wordpress, SKT"
         title="Daddy Greens Pizza (the last dragon)"
       />
 
       <ProjectItem
         backgroundImg={meteormanImg}
-        projectUrl="/dictionary"
+        projectUrl="https://bio.mytsi.org/bdavismeteorman"
         tech="biolink, video editing, AR"
         title="MeteorMan media kit"
       />
 
       <ProjectItem
         backgroundImg={muspopinaImg}
-        projectUrl="/recipes"
+        projectUrl="https://bdvaismuspopina.tsiapps.org/"
         tech="Builder"
         title="Mus Popina restaurant"
       />
 
       <ProjectItem
         backgroundImg={yaleImg}
-        projectUrl="/open-ai"
+        projectUrl="https://bryantdavis.tsiacademy.org/ux/yaleredesign/WordPress-master/yalehome/"
         tech="Wordpress, Divi"
         title="Yale School Of Art redesign prototype"
       />
