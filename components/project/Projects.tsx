@@ -14,7 +14,7 @@ function ProjectsContainer(): JSX.Element {
     <div className="grid md:grid-cols-3 gap-8">
       <ProjectItem
         backgroundImg={bemusicImg}
-        projectUrl="/landing-pages"
+        projectUrl="https://bryantdavis.tsiacademy.org/webapps/week3/productpage/"
         tech="Wordpress, Divi"
         title="Bemusic product page"
       />
