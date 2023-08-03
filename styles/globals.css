@@ -12,8 +12,8 @@ html {
 /* global styles for tailwind */
 @layer base {
   body {
-    @apply bg-[#B4D5C3] text-[#1f2937] tracking-wide;
-    /*original background color = #F3F4F6*/
+    @apply bg-[#CDDDDD] text-[#051014] tracking-wide;
+    /*original background color = #F3F4F6 original text color = #1f2937*/
   }
 
   h1,
