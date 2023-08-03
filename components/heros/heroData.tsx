@@ -6,7 +6,7 @@ export const heroData = [
     label: "github",
     href: "https://github.com/diamondoperator/", //"https://github.com/itsjagdeep",
     style:
-      "bg-white-500 rounded-full shadow-lg shadow-white-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300",
+      "bg-white rounded-full shadow-lg shadow-white-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300",
     icon: <FaGithub />,
   },
   {
