@@ -68,7 +68,7 @@ export const skillsData = [
   {
     href: "https://github.com/milliorn",
     style: "m-auto p-1 sm:text-5xl text-red-500",
-    //icon: <SiGit />,
+    icon: <SiGit />,
     h3: "Wordpress",
   },
   {
