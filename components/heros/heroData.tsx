@@ -16,3 +16,4 @@ export const heroData = [
   icon: <FaLinkedinIn />,
   }
 ] as const;
+//
