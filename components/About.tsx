@@ -26,7 +26,7 @@ function AboutText(): JSX.Element {
 // about image container
 function AboutImage(): JSX.Element {
   return (
-    <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
+    <div className=" bg-white w-full h-auto m-auto shadow-xl shadow-white rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
       <Image
         alt="/"
         blurDataURL="../public/assets/navbarLogo.png"
