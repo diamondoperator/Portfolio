@@ -15,7 +15,7 @@ export default function SkillsContainer(): JSX.Element {
             target="_blank"
             className="grid grid-cols-2 gap-4 justify-center items-center"
           >
-            <div className={skillData.style}>{skillData.icon}</div>
+            <div className={skillData.style}></div>
             <div className="flex flex-col items-center justify-center text-sm lg:text-lg">
               <h3>{skillData.h3}</h3>
             </div>
