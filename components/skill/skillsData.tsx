@@ -50,6 +50,7 @@ export const skillsData = [
   {
     href: "https://github.com/milliorn",
     style: "bg-white m-auto p-1 sm:text-5xl text-red-500",
+    icon:,
     h3: "Physical Computing",
   },
   {
