@@ -47,6 +47,24 @@ export const skillsData = [
     icon: <SiGit />,
     h3: "Git",
   },
+  {
+    href: "https://github.com/milliorn",
+    style: "m-auto p-1 sm:text-5xl text-red-500",
+    icon: <SiGit />,
+    h3: "Physical Computing",
+  },
+  {
+    href: "https://github.com/milliorn",
+    style: "m-auto p-1 sm:text-5xl text-red-500",
+    icon: <SiGit />,
+    h3: "Creative Coding",
+  },
+  {
+    href: "https://github.com/milliorn",
+    style: "m-auto p-1 sm:text-5xl text-red-500",
+    icon: <SiGit />,
+    h3: "New Media",
+  },
   /*{
     href: "https://github.com/milliorn?tab=repositories&q=react&type=public&language=javascript&sort=",
     style: "m-auto p-1 text-blue-500 sm:text-5xl",
