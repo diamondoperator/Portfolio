@@ -6,7 +6,7 @@ import NavLogo from "../../public/assets/navbarLogo.png";
 export default function NavbarLogoGlobal(): JSX.Element {
   return (
     <Link href="/">
-      <h1>Bryant Davis</h1>
+      <h3>Bryant Davis</h3>
     </Link>
   );
 }
